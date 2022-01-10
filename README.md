@@ -3,8 +3,8 @@
 ## Background
 
 The continuing COVID-19 pandemic demonstrates the enduring potential for biological risks to cause disaster.
-Worryingly, these risks, and the scale of their consequences, may be growing over time as biotechnological progresses.
-In this reading group, we will aim to get up to speed with the situation as it stands, as well as discussing how we might use our careers to mitigate these risks.
+Worryingly, these risks, and the scale of their consequences, may be growing over time as biotechnology progresses.
+In this biosecurity reading group, over the spring term we will aim to get up to speed with the situation as it stands, before discussing how we might use our careers to mitigate these risks.
 
 ## Logistics
 
