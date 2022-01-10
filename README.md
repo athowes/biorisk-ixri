@@ -15,6 +15,8 @@ We will meet each week for approximately an hour, to discuss a selection of core
 If possible, it will take place in person at either the South Kensington campus or St Mary's, Paddington depending on which location is convenient for the majority of participants.
 Lunch will be provided (thank you to the [CEA](https://www.centreforeffectivealtruism.org/) for funding!) if we're able to meet in person.
 
+If you have any questions, feel free to get in touch with me via email at `ath19@ic.ac.uk`.
+
 ## Schedule
 
 | Week starting | Topic | Core reading |
@@ -30,6 +32,6 @@ Lunch will be provided (thank you to the [CEA](https://www.centreforeffectivealt
 
 ## About the organiser
 
-Hi! I'm Adam, a third year PhD in the maths department working on models HIV surveillance.
+Hi! I'm Adam, a third year PhD in the maths department working on HIV surveillance.
 I'm organising this reading group because I'd like to learn more about biosecurity, and reading groups are a good way to force yourself to actually learn something!
-I'd particularly like to see if the disease surveillance skills I'm (hopefully) picking up during my PhD could somehow be applied to reducing the chance of there being a global catastrophic biological risk.
+I'd particularly like to see if the disease surveillance skills I'm (hopefully) picking up during my PhD could somehow be applied to reducing the chance of there being a global catastrophic biological disaster.
