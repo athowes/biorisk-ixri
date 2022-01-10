@@ -1,14 +1,35 @@
-# biorisk-ixri
+# Biosecurity Reading Group (Imperial, Spring 2022)
 
-## Reading list
+## Background
 
-| Paper | Authors | Year |
+The continuing COVID-19 pandemic demonstrates the enduring potential for biological risks to cause disaster.
+Worryingly, these risks, and the scale of their consequences, may be growing over time as biotechnological progresses.
+In this reading group, we will aim to get up to speed with the situation as it stands, as well as discussing how we might use our careers to mitigate these risks.
+
+## Logistics
+
+**If you're interested in taking part in this reading group, please register your interest [here](https://forms.gle/ktC2R5sxfqpUCr9VA) on the Google Form!**
+
+The reading group will run for eight weeks (beginning w/c 24th January) and will be closely based upon the [EA Cambridge Biosecurity Seminar Program](https://www.eacambridge.org/biosecurity-programme).
+We will meet each week for approximately an hour, to discuss a selection of core reading.
+If possible, it will take place in person at either the South Kensington campus or St Mary's, Paddington depending on which location is convenient for the majority of participants.
+Lunch will be provided (thank you to the [CEA](https://www.centreforeffectivealtruism.org/) for funding!) if we're able to meet in person.
+
+## Schedule
+
+| Week starting | Topic | Core reading |
 |-------|---------|------|
-| [Existential Risk and Cost-Effective Biosecurity](https://www.liebertpub.com/doi/full/10.1089/hs.2017.0028) | Millett, Snyder-Beattie | 2017 |
-| [Special Feature: Global Catastrophic Biological Risks](https://www.liebertpub.com/toc/hs/15/4) | Various | 2017 |
-| [Rethinking Biosafety in Research on Potential Pandemic Pathogens](https://journals.asm.org/doi/10.1128/mbio.00360-12?permanently=true) | Lipsitch, Bloom | 2012 |
+| 24th Jan | Pandemics and bioweapons | TBD |
+| 31st Jan | Biosafety | TBD |
+| 7th Feb | Gain-of-function research | TBD |
+| 14th Feb | Dual-use research of concern | TBD |
+| 21st Feb | Information hazards and the unilateralist curse  | TBD |
+| 28th Feb | Pandemic prevention and diagnostics | TBD |
+| 7th March | Pandemic response | TBD |
+| 14th March | Career opportunities | TBD |
 
-## Sources
+## About the organiser
 
-* [Existential Risks/GCRs Reading Suggestions](https://docs.google.com/document/d/1AkVKpJZ4E8fa3uq6U36pU0BP7A64nXTxg-QI3Nn0o4Q/view)
-* [GCBR reading list](https://docs.google.com/document/d/14xGN4yv_hvk6lAH-EWE3svyYEKcqiJiH03Bipmyj-gY/edit#heading=h.a9qqmc6ms5po)
+Hi! I'm Adam, a third year PhD in the maths department working on models HIV surveillance.
+I'm organising this reading group because I'd like to learn more about biosecurity, and reading groups are a good way to force yourself to actually learn something!
+I'd particularly like to see if the disease surveillance skills I'm (hopefully) picking up during my PhD could somehow be applied to reducing the chance of there being a global catastrophic biological risk.
