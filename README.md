@@ -31,26 +31,44 @@ If you have any questions, feel free to get in touch with me via email at `ath19
 
 ## Pandemics and bioweapons
 
+### Background
+
 Pandemics can roughly be divided into those occurring naturally and those which are synthetically engineered.
 In this first session we will discuss the history of pandemics, as well as the ability of humanity to both respond to and create biological disasters.
 
-The readings for this session are:
+### Readings
 
 * [Emerging Infections: Microbial Threats to Health in the United States - Ledberg et al. (2008)](https://wwwnc.cdc.gov/eid/pdfs/lederburg-report-2008.pdf)
   * Section: "Background; Plague, Influenza, & Optimism and Indifference" (pages 16-26)
 * [History of biological warfare and bioterrorism - Barras & Greub (2014)](https://www.sciencedirect.com/science/article/pii/S1198743X14641744)
   * Section: "Biological Warfare: A Classic Tool of Armies"
+  * Biological agents could be used both by states and by non-state actors as a weapon
 * [The Precipice - Toby Ord (2020)](https://drive.google.com/file/d/1NftXe80SXWThwRPDVc8Y04u5HTSHKzIg/view)
   * Section: "Pandemics" (Chapter 5: pages 124-138)
+  * "The Precipice" refers to a period of time, beginning with the advent of nuclear weapons, where humanity has the power to destroy itself, without the wisdom to ensure that we won't 
 
 Further suggestions are available [here](https://www.eacambridge.org/bsp-week-1).
 
-
-<!--
-
 ## Biosafety
 
-(To do, will be based on the most important parts of [this](https://www.eacambridge.org/bsp-week-2)!)
+### Background
+
+Biosafety refers to precautions taken when handling potentially dangerous microorganisms.
+What biosaftey regulation exists, and how successful is it at containing infectious microorganisms?
+
+### Readings
+
+* [Biosafety levels 1, 2, 3, 4 - Lab Manager (2010)](https://www.labmanager.com/lab-health-and-safety/biosafety-levels-1-2-3-4-19123)
+  * This reading is about the four biosafety levels designed for working with agents of varying danger levels
+* [Revealed: 100 safety breaches at UK labs handling potentially deadly diseases - The Guardian (2014)](https://www.theguardian.com/science/2014/dec/04/-sp-100-safety-breaches-uk-labs-potentially-deadly-diseases)
+  * Despite regulation, it's inevitable that humans make errors.
+  * Professor Brian G Spratt (Imperial): "What strikes me is that accidents do happen even in the best facilities, often due to operator error, or unrecognised breakdowns in containment measures."
+* [How to make sure the labs researching the most dangerous pathogens are safe and secure - The Bulletin (July 2021)](https://thebulletin.org/2021/07/how-to-make-sure-the-labs-researching-the-most-dangerous-pathogens-are-safe-and-secure/)
+* [Improving Security through International Biosafety Norms - Gronvall et al. (2016)](https://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2016/Final_report_to_PASCC_071416.pdf)
+
+Further suggestions are available [here](https://www.eacambridge.org/bsp-week-2).
+
+<!--
 
 ## Gain-of-function research
 
