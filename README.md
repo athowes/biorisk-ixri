@@ -19,7 +19,7 @@ If you have any questions, feel free to get in touch with me via email at `ath19
 ## Schedule
 
 | Week starting | Topic |
-|-------|---------|------|
+|-------|---------|
 | 24th Jan | [Pandemics and bioweapons](#pandemics-and-bioweapons) |
 | 31st Jan | [Biosafety](#biosafety) | 
 | 7th Feb | [Gain-of-function research](#gain-of-function-research) |
@@ -32,7 +32,7 @@ If you have any questions, feel free to get in touch with me via email at `ath19
 ## Pandemics and bioweapons
 
 Pandemics can roughly be divided into those occurring naturally and those which are synthetically engineered.
-In this session we will discuss the history of pandemics, as well as the ability of humanity to both respond to and create biological disasters.
+In this first session we will discuss the history of pandemics, as well as the ability of humanity to both respond to and create biological disasters.
 
 The readings for this session are:
 
@@ -44,6 +44,9 @@ The readings for this session are:
   * Section: "Pandemics" (Chapter 5: pages 124-138)
 
 Further suggestions are available [here](https://www.eacambridge.org/bsp-week-1).
+
+
+<!--
 
 ## Biosafety
 
@@ -72,6 +75,8 @@ Further suggestions are available [here](https://www.eacambridge.org/bsp-week-1)
 ## Career opportunities
 
 (To do, will be based on the most important parts of [this](https://www.eacambridge.org/bsp-week-8)!)
+
+-->
 
 ## About the organiser
 
