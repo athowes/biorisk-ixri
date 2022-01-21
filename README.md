@@ -8,13 +8,15 @@ In this biosecurity reading group, over the spring term we will aim to get up to
 
 ## Logistics
 
-**If you're interested in taking part in this reading group, please register your interest [here](https://forms.gle/ktC2R5sxfqpUCr9VA) on the Google Form!**
+* **Location**: Praed Street meeting room, St Mary's, Paddington
+* **Time**: Friday, 12:00 - 13:00
 
 The reading group will run for eight weeks (beginning w/c 24th January) and will be closely based upon the [EA Cambridge Biosecurity Seminar Program](https://www.eacambridge.org/biosecurity-seminar-programme) with some minor editing.
-We will meet each week for approximately an hour, to discuss a selection of readings.
-It will take place in person at St Mary's, Paddington (awaiting room and time allocation) and lunch will be provided (thank you to the [CEA](https://www.centreforeffectivealtruism.org/) for funding!).
-
+We will meet each week for an hour to discuss a selection of readings.
+Lunch will be provided (thank you to the [CEA](https://www.centreforeffectivealtruism.org/) for funding!).
 If you have any questions, feel free to get in touch with me via email at `ath19@ic.ac.uk`.
+
+**If you'd like to take part, please register your interest [here](https://forms.gle/ktC2R5sxfqpUCr9VA) or send me an email, and I will add you to our Teams channel!**
 
 ## Schedule
 
