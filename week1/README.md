@@ -41,6 +41,7 @@
   * Anthrax letters
   * Aum Shinrikyo
 * Usefulness of attribution
+* International norms
 
 ## The Precipice
 
@@ -96,3 +97,32 @@
 * Information hazards
   * Science designed to spread information
   * Unilateralists curse
+
+## Notes during meeting
+
+* The blueprint
+* CEPI
+  * Being prepared
+* Ebola outbreaks, Zika
+* Viruses that can persist on surfaces for hours
+* Strains of bacteria that are resistant to everything that we have
+* Severe
+* COVID is less severe than MERS and SARS
+* Ebola less deadly than in the 70s
+* Map out the landscape of potential threats versus don't know
+* Fundamental tension
+* More turnover of viruses
+  * Pressure towards less severe
+* Didn't have vaccines, didn't have antibiotics
+* Less virolence, less severity is the trend
+* Regulation
+  * Auditing
+* How to regulate states
+* How difficult is it to hide bioweapon programs
+* Surveillance over pathogens which shouldn't be about 
+* Quite a lot of expenses for a lab
+* Black market versus allowing some dodgy companies
+  * Easier to track in the non black market if something happens
+* Individual versus group norms
+* Not as prepared as we thought (in the west say)
+
