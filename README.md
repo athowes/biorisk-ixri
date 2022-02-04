@@ -70,11 +70,23 @@ What biosaftey regulation exists, and how successful is it at containing infecti
 
 Further suggestions are available [here](https://www.eacambridge.org/bsp-week-2).
 
-<!--
-
 ## Gain-of-function research
 
-(To do, will be based on the most important parts of [this](https://www.eacambridge.org/bsp-week-3)!)
+### Background
+
+Gain-of-function is a type of research where organisms are genetically alters in ways which may enhance their biological function.
+Proponents of this research argue that it will help us to prepare for mutations which may occur naturally.
+However, its critics believe that the risks posed by gain-of-function may outweigh any supposed benefits.
+
+### Readings
+
+* [Risks and Benefits of Gain-of-Function Experiments in Potentially Pandemic Pathogens - Lipsitch and Smith (2015)](https://www.youtube.com/watch?v=d5fe7KEkwQM)
+  * A pseduo-debate between Marc Lipsitch and Derek Smith on gain-of-function
+  * Alternative, if you prefer reading, is [Why Do Exceptionally Dangerous Gain-of-Function Experiments in Influenza? - Lipsitch (2018)](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7119956/pdf/978-1-4939-8678-1_Chapter_29.pdf)
+* [“Designer bugs”: how the next pandemic might come from a lab - Bressler and Bakerlee (2018)](https://www.vox.com/future-perfect/2018/12/6/18127430/superbugs-biotech-pathogens-biorisk-pandemic)
+* Optional: [The De Novo Synthesis of Horsepox Virus: Implications for Biosecurity and Recommendations for Preventing the Reemergence of Smallpox - Koblentz GD (2017)](https://drive.google.com/file/d/1QdBkGnXdn5GDc-RwnKN6GsRCQ6826DiH/view)
+
+<!--
 
 ## Dual-use research of concern
 
