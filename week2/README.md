@@ -77,3 +77,10 @@
 12. Near miss needs to be defined
 13. WHO and OECD could help advance norms
 14. More formal process for developing emerging biosafety norms
+
+## In meeting
+
+* No screening for individuals working in labs
+* Doesn't reflect their morals and ethics
+* Stress and time pressure
+* WHO has 10x less employees than the CDC
