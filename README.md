@@ -86,11 +86,22 @@ However, its critics believe that the risks posed by gain-of-function may outwei
 * [“Designer bugs”: how the next pandemic might come from a lab - Bressler and Bakerlee (2018)](https://www.vox.com/future-perfect/2018/12/6/18127430/superbugs-biotech-pathogens-biorisk-pandemic)
 * Optional: [The De Novo Synthesis of Horsepox Virus: Implications for Biosecurity and Recommendations for Preventing the Reemergence of Smallpox - Koblentz GD (2017)](https://drive.google.com/file/d/1QdBkGnXdn5GDc-RwnKN6GsRCQ6826DiH/view)
 
-<!--
-
 ## Dual-use research of concern
 
-(To do, will be based on the most important parts of [this](https://www.eacambridge.org/bsp-week-4)!)
+### Background
+
+> Dual Use Research of Concern (DURC) is life sciences research that, based on current understanding, can be reasonably anticipated to provide knowledge, information, products, or technologies that could be directly misapplied to pose a significant threat with broad potential consequences to public health and safety, agricultural crops and other plants, animals, the environment, material, or national security. - [NIH](https://oir.nih.gov/sourcebook/ethical-conduct/special-research-considerations/dual-use-research)
+
+Current rapid progress in synthetic biology has the potential to do a great deal of good: in health, manufacturing, climate, agriculture.
+This week we'll talk about the ways in which this well-intended research may be misappropriated to cause harm.
+
+### Readings
+
+* [Benefits & Risks of Biotechnology, FLI](https://futureoflife.org/background/benefits-risks-biotechnology/)
+* [Biodefense in the Age of Synthetic Biology (2018)](https://drive.google.com/file/d/1mcMLEldWUU3oCZlReh1d9PyxCaV0WbTB/view)
+  * Sections: Summary (pages 1-8), Introduction (pages 9-15), Implications of the Age of Synthetic Biology (pages 18-21), Framework for assessing concern about synthetic biology capabilities (pages 23-31), Assessment of concern related to pathogens (pages 57-58) 
+
+<!--
 
 ## Information hazards and the unilateralist curse
 
