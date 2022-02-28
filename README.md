@@ -101,11 +101,16 @@ This week we'll talk about the ways in which this well-intended research may be 
 * [Biodefense in the Age of Synthetic Biology (2018)](https://drive.google.com/file/d/1mcMLEldWUU3oCZlReh1d9PyxCaV0WbTB/view)
   * Sections: Summary (pages 1-8), Introduction (pages 9-15), Implications of the Age of Synthetic Biology (pages 18-21), Framework for assessing concern about synthetic biology capabilities (pages 23-31), Assessment of concern related to pathogens (pages 57-58) 
 
-<!--
-
 ## Information hazards and the unilateralist curse
 
-(To do, will be based on the most important parts of [this](https://www.eacambridge.org/bsp-week-5)!)
+### Readings
+
+* [Information hazards: A typology of potential harms from knowledge - Bostrom (2011)](https://nickbostrom.com/information-hazards.pdf)
+  * Sections: Abstract, Introduction, Risks from development and Discussion
+* [Information Hazards in Biotechnology - Lewis et al. (2018)](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.13235)
+* [Bioinfohazards - Fin (2019)](https://forum.effectivealtruism.org/posts/ixeo9swGQTbYtLhji/bioinfohazards-1)
+
+<!--
 
 ## Pandemic prevention and diagnostics
 
